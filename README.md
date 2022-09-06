@@ -8,22 +8,6 @@
 [![JavaScript Version][javascript-image]][javascript-url]
 [![Cypress Version][cypress-image]][cypress-url]
 
-Estrutura do projeto:
-```
-./
-│  ├── cypress/
-│  │   ├── config/
-│  │   ├── fixtures/
-│  │   ├── e2e/
-│  │   └── support/
-│  │       ├── BookStore/
-│  │       ├── Home/
-│  │       ├── SignIn/
-├── .gitignore
-├── cypress.config.js
-├── package.json
-└── README.md
-```
 
 Assumimos que você possui NodeJS instalado (versão 14 ou superior) e que tenha executado o scaffolding do Cypress ou realizado clone deste projeto. Agora você pode executar seu projeto local.
 
